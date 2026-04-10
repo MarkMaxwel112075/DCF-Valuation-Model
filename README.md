@@ -1,5 +1,9 @@
 # DCF Valuation Model – TCS
-DCF valuation model of TCS with 5-year projections, WACC-based discounting, and sensitivity analysis to estimate intrinsic value
+## Key Results
+- Enterprise Value: INR 8.96Tn
+- Intrinsic value: ~INR 2,600/share
+- ~21% downside identified
+- Sensitivity range: INR 1,024 – 5,032/share
 
 ## Overview
 

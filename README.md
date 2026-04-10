@@ -1,9 +1,19 @@
 # DCF Valuation Model – TCS
+
 ## Key Results
 - Enterprise Value: INR 8.96Tn
 - Intrinsic value: ~INR 2,600/share
 - ~21% downside identified
 - Sensitivity range: INR 1,024 – 5,032/share
+
+## Problem Statement
+To determine whether TCS is overvalued or undervalued based on its future cash flow potential.
+
+## Approach
+Built a 5-year DCF model using revenue forecasts, EBITDA margins, and WACC (10.5%), along with sensitivity analysis.
+
+## Outcome
+Estimated intrinsic value of ~INR 2,600/share, indicating ~21% downside, suggesting potential overvaluation.
 
 ## Overview
 
